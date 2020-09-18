@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizama&show_icons=true" alt="rizama" /></p>
 
 ### Connect with me:
-<p align="center">
+<p>
 <a href="https://twitter.com/rizkysamp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rizkysamp" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/rizkysamp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizkysamp" height="30" width="30" /></a>
 <a href="https://fb.com/rizkysampratama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rizkysampratama" height="30" width="30" /></a>
