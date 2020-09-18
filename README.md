@@ -33,6 +33,79 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 126 Contributions in the Year 2020
+ > 
+> 📦 83.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 42 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+🌆 Daytime    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
+🌃 Evening    99 commits     █████████████████░░░░░░░░   68.28% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.62% 
+Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Thursday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
+Friday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
+Sunday       30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.69%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+PHP                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/rizama/rizama/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
