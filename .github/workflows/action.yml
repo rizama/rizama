@@ -18,4 +18,4 @@ jobs:
           SHOW_PROFILE_VIEWS: FALSE
           SHOW_SHORT_INFO: FALSE
           SHOW_LOC_CHART: FALSE
-          SHOW_LANGUAGE: TRUE
+          SHOW_PROJECTS: FALSE
