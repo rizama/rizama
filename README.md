@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me:
 - 🔭 I'm currently working **at a startup company that focuses on data analytics**
-- 🌱 I’m currently learning **NextJs, ReactJS, Firebase, Tailwind, and Golang**
+- 🌱 I’m currently learning **NestJs, ReactJS, Firebase, Typescript, and Golang**
 - 👯 I’m looking to collaborate on **any kind of web dev and backend dev**
 - 🤝 I’m looking for help with **any kind of web dev and backend dev**
 - 💬 Ask me about **Running Man, Movies, or What Ever**
