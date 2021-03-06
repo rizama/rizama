@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me:
 - 🔭 I'm currently working **at a startup company that focuses on data analytics**
-- 🌱 I’m currently learning **Bot Telegram, Docker for Nodejs, Typescript, and Redis**
+- 🌱 I’m currently learning **Docker for Nodejs, Typescript, Redis in Nodejs, Reactjs, and Elasticsearch**
 - 👯 I’m looking to collaborate on **any kind of web dev and backend dev**
 - 🤝 I’m looking for help with **any kind of web dev and backend dev**
 - 💬 Ask me about **Running Man, Movies, or What Ever**
