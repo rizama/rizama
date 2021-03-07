@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 ### My Github Stats: 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rizama&show_icons=true&theme=vue-dark" alt="rizama" /></p>
 
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -113,7 +116,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
+</details>
 
 ### Connect with me:
 <p align="left">
