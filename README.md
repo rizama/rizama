@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Running Man, Movies, or What Ever**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Most laughter isn't because things are funny.**
+- 👋 My personal [blog site](https://rizkysamp.web.id/)
 
 ### Things i code with:
 <p>
@@ -52,7 +53,10 @@ Here are some ideas to get you started:
 </p>
 
 ### My Github Stats: 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rizama&show_icons=true&theme=vue-dark" alt="rizama" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=rizama&show_icons=true&theme=vue-dark&line_height=27" alt="rizama" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rizama&show_icons=true&hide=css,html&theme=vue-dark">
+</p>
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
