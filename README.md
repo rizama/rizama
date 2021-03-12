@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with **any kind of web dev and backend dev**
 - 💬 Ask me about **Running Man, Movies, or What Ever**
 - 📫 How to reach me **rizkysampratama@gmail.com**
-- ⚡ Fun fact **Most laughter isn't because things are funny.**
+- ⚡ Fun fact **Something new creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
 
 ### Things i code with:
