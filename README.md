@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ### About me:
 - 🔭 I'm currently working **at a startup company that focuses on data analytics**
-- 🌱 I’m currently learning **Websocket, Typescript, Redis in Nodejs, Reactjs, and Elasticsearch**
+- 🌱 I’m currently learning **Stack MERN**
+- 🎯 Next Targets **Websocket > Typescript > Redis in Nodejs > Elasticsearch**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
