@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi All 👋</h1>
+<h1 align="center">Hi All 💖</h1>
 
 ### About me:
 - 🔭 I'm currently working **at a startup company that focuses on data analytics**
-- 🌱 I’m currently learning **Stack MERN**
-- 🎯 Next Targets **Queue (Nodejs) > Caching (Nodejs) > Elasticsearch > Docker > Websocket**
+- 🌱 I’m currently learning **Backend Fundamental include Queue and Caching**
+- 🎯 Next Targets **Elasticsearch > Docker > Websocket**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
