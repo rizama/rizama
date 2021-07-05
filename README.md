@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me:
 - 🔭 I'm currently working **at a startup company that focuses on data analytics**
-- 🌱 I’m currently learning **Backend Fundamental include Queue and Caching**
+- 🌱 I’m currently learning **Backend Fundamental include Queue (RabbitMQ) and Caching (Redis)**
 - 🎯 Next Targets **Elasticsearch > Docker > Websocket**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new creates new problems**
