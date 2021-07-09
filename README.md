@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working **at a startup company that focuses on data analytics**
 - 🌱 I’m currently learning **Backend Fundamental include Queue (RabbitMQ) and Caching (Redis)**
 - 🎯 Next Targets **Elasticsearch > Docker > Websocket**
+- 💬 Ask me about **...**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
