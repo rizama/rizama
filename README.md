@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi Everyone</h1>
 
 ### About me:
-- 🔭 I'm currently working **at a startup company that focuses on data analytics**
+- 🔭 I'm currently working **...**
 - 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo**
 - 🎯 Next Targets **Kafka, Redis**
 - 💬 Ask me about **...**
