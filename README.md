@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🎯 Next Targets **Kafka, Redis**
 - 💬 Ask me about **...**
 - 📫 How to reach me **rizkysampratama@gmail.com**
-- ⚡ Fun fact **Something new creates new problems**
+- ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
 
 ### Things i code with:
