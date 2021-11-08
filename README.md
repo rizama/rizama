@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👨‍💻</h1>
+<h1 align="center">Hello 👨‍💻</h1>
 
 ### About me:
 - 🔭 I'm currently working at **...**
