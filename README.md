@@ -4,7 +4,7 @@
 - 🔭 I'm currently working at **...**
 - 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo**
 - 🎯 Next Targets **Kafka, Redis**
-- 💬 Ask me about **...**
+- 💬 Ask me about **One Piece :)**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
