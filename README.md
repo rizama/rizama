@@ -2,8 +2,7 @@
 
 ### About me:
 - 🔭 I'm currently working at **...**
-- 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo**
-- 🎯 Next Targets **Kafka, Redis**
+- 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka**
 - 💬 Ask me about **One Piece :)**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
