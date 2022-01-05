@@ -1,4 +1,4 @@
-<h1 align="center">Helloo Everyone👨‍💻</h1>
+<h1 align="center">Hii Everyone👨‍💻</h1>
 
 ### About me:
 - 🔭 I'm currently working at **Logistic Company**
