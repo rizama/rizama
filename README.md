@@ -1,7 +1,7 @@
 <h1 align="center">Hii Everyone👨‍💻</h1>
 
 ### About me:
-- 🔭 I'm currently working at **Logistic Company**
+- 🔭 I'm currently working at **Logistic Company in Indonesia**
 - 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka, Grafana (Loki, Promotheus)**
 - 💬 Ask me about **One Piece**
 - 📫 How to reach me **rizkysampratama@gmail.com**
