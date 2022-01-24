@@ -2,7 +2,7 @@
 
 ### About me:
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
-- 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka, Grafana (Loki, Promotheus)**
+- 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka, Grafana (Loki, Promotheus), GO**
 - 💬 Ask me about **One Piece**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
