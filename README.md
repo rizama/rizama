@@ -1,4 +1,4 @@
-<h1 align="center">Emm Hi</h1>
+<h1 align="center">Emm Hi There</h1>
 
 ### About me:
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
