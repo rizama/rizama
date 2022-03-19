@@ -1,6 +1,6 @@
 <h1 align="center">Oh Hello There, Sam Here 🖐️</h1>
 
-### About me:
+### Want know about me? here it is
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
 - 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka, Grafana (Loki, Promotheus), Golang**
 - 💬 Ask me about **One Piece**
@@ -8,7 +8,7 @@
 - ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
 
-### Things i code with:
+### My tools and tech? here it is
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -31,7 +31,7 @@
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-### My Github Stats: 
+### Here we go my Github Stats: 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=rizama&show_icons=true&theme=vue-dark&line_height=27" alt="rizama" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rizama&show_icons=true&hide=css,html&theme=vue-dark">
