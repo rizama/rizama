@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Repo</h1>
+<h1 align="center">Oh Hello There, Sam Here h🖐️</h1>
 
 ### About me:
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
