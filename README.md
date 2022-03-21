@@ -3,7 +3,7 @@
 ### Want know about me? here it is
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
 - 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka, Grafana (Loki, Promotheus), Golang**
-- 💬 Ask me about **One Piece**
+- 💬 Ask me about **Emmm**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal [blog site](https://rizkysamp.web.id/)
