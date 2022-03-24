@@ -6,7 +6,7 @@
 - 💬 Ask me about **Don't ask me**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
-- 👋 My personal [blog site](https://rizkysamp.web.id/)
+- 👋 My personal web [blog site](https://rizkysamp.web.id/)
 
 ### My tools and tech? here it is
 <p>
