@@ -1,4 +1,4 @@
-<h1 align="center">Hai.. Sam here.. who is there??</h1>
+<h1 align="center">Hai.. Sam here</h1>
 
 ### Want know about me? here it is
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
