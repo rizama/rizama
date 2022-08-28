@@ -2,7 +2,7 @@
 
 ### Want know about me? here it is
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
-- 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka, Grafana, Golang, Redshift**
+- 🌱 I’m currently learning **Typescript, NestJS, NX Monorepo, Kafka, Grafana, Golang, Redshift, OAuth2**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal web [blog site](https://rizkysamp.web.id/)
