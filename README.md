@@ -31,11 +31,13 @@
     <img alt="Golang" src="https://img.shields.io/badge/-Golang-F7B93E?style=flat-square&logo=golang&logoColor=white" />
 </p>
 
+<!--
 ### Here we go my Github Stats: 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=rizama&show_icons=true&theme=vue-dark&line_height=27" alt="rizama" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rizama&show_icons=true&hide=css,html&theme=vue-dark">
 </p>
+-->
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
