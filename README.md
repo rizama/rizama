@@ -2,7 +2,7 @@
 
 ### Want know about me? here it is
 - 🔭 I'm currently working at **Logistic Company in Indonesia**
-- 🌱 I’m currently learning **Golang, GRPC, JEST, CI/CD, Auto Testing**
+- 🌱 I’m currently learning **Golang, GRPC, Rust, CI/CD, Auto Testing**
 - 📫 How to reach me **rizkysampratama@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal web [blog site](https://rizkysamp.web.id/)
